@@ -1,2 +1,2 @@
 # 404
-404 Landing Page
+404 Web Page
